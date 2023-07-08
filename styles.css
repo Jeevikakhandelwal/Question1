@@ -37,10 +37,10 @@ nav a[aria-current='page'] {
 }
 
 main {
+  background-color: black;
   padding: 1rem;
-  background-color: #000;
   background-size: cover;
-  height: 150vh;
+  height: 300vh;
   opacity: 0.8;
 }
 
